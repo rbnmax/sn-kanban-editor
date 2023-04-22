@@ -2,7 +2,7 @@
 
 ![Kanban Icon](/public/demo.png)
 
-## Introduction - 1
+## Introduction - 122
 
 The Kanban Editor is an unofficial editor for [Standard Notes](https://standardnotes.org),
 a free, open-source, end-to-end encrypted notes app.
