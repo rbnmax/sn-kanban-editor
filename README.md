@@ -18,7 +18,7 @@ I plan to keep the file format backwards compatible.
 However, it is possible that changes will be required in the future that could cause incompatibilities with existing notes.
 If possible, I will provide a migration tool to convert your notes to the new format.
 
-## Demo
+## Demo 11
 
 [Try out the demo here!](https://corvec.github.io/sn-kanban-editor/)
 Note that any changes you make will be lost when you close your browser tab.
